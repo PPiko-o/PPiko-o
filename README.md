@@ -1,6 +1,6 @@
 ### hello there, I'm Piko!
 
-I'm a developer who enjoys breaking my operating system  and code at 3am!
+I'm a developer who enjoys breaking my operating system  and coding at 3am!
 
 ### Operating Systems
 
