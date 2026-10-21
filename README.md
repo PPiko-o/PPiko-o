@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/PPiko-o/pixel-calibration-tool"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pixel-calibration-tool-dark.svg"><img src="assets/project-pixel-calibration-tool-light.svg" width="49%" alt="pixel-calibration-tool"></picture></a>&nbsp;<a href="https://github.com/PPiko-o/PPiko-o"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ppiko-o-dark.svg"><img src="assets/project-ppiko-o-light.svg" width="49%" alt="PPiko-o"></picture></a>
+<a href="https://github.com/PPiko-o/pixel-calibration-tool"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pixel-calibration-tool-dark.svg"><img src="assets/project-pixel-calibration-tool-light.svg" width="49%" alt="pixel-calibration-tool"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
