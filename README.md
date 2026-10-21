@@ -1,20 +1,23 @@
-### hello there, I'm Piko!
+<div align="center">
 
-I'm a developer who enjoys breaking my operating system  and coding at 3am!
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hello there, im  piko"></picture>
 
-### Operating Systems
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="33.979%" alt=""></picture><a href="https://discord.com/users/730007230044438599"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://www.tiktok.com/@ppiko_1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="15.488%" alt="tiktok"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="33.979%" alt=""></picture>
 
-* Arch Linux
-* NixOS
-* Windows
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-### Coding
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-* AutoHotkey
-* Lua
+<a href="https://github.com/PPiko-o/pixel-calibration-tool"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-pixel-calibration-tool-dark.svg"><img src="assets/project-pixel-calibration-tool-light.svg" width="49%" alt="pixel-calibration-tool"></picture></a>&nbsp;<a href="https://github.com/PPiko-o/PPiko-o"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ppiko-o-dark.svg"><img src="assets/project-ppiko-o-light.svg" width="49%" alt="PPiko-o"></picture></a>
 
-### Contact
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-* Discord: `ppiko__`
-* tiktok: `itspiko_1`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/PPiko-o?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=PPiko-o"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
